@@ -3,6 +3,8 @@
 An Excel + Power BI analytics project that turns eight years of raw global sales
 records into a decision-ready, boardroom-style performance report — built and
 presented the way a data analyst would deliver it to a business owner.
+
+
 <img width="800" height="425" alt="Image" src="https://github.com/user-attachments/assets/142727d8-c9ed-47b5-9b31-9e16deb38ee0" />
 
 ---
