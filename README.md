@@ -148,5 +148,5 @@ Sales-performance-analysis_DE/
   merged in.
 
 ## Author
+[Linkedin](www.linkedin.com/in/vee-maker1218)
 
-*(Add your name, LinkedIn, and/or portfolio link here.)*
