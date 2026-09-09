@@ -118,14 +118,14 @@ hand — see *Reproducing This Project* below.
 ## Repository Structure
 
 ```
-digital-echoes-sales-performance-report/
+Sales-performance-analysis_DE/
 ├── README.md
 ├── data/
-│   └── Digital_Echoes_SalesRecord.xlsx        # raw data + Issues Log + KPI pivot tables
+│   └── DE_SalesRecord.xlsx        # raw data + Issues Log + KPI pivot tables
 ├── dashboards/
-│   └── Digital_Echoes_BI.pbix                 # Power BI model & interactive visuals
+│   └── DE_BI.pbix                 # Power BI model & interactive visuals
 └── reports/
-    └── Digital_Echoes_Annual_Sales_Performance_Report.pptx
+    └── DE_Annual_Sales_Performance_Report.pptx
 ```
 
 ## Reproducing This Project
