@@ -1,4 +1,4 @@
-# Digital Echoes — Annual Sales Performance Report
+# DE — Annual Sales Performance Report
 
 An Excel + Power BI analytics project that turns eight years of raw global sales
 records into a decision-ready, boardroom-style performance report — built and
@@ -39,9 +39,9 @@ visualization step at the end of it.
 
 | File | Description |
 |---|---|
-| `Digital_Echoes_SalesRecord.xlsx` | Raw sales records, the pre-existing data cleaning log ("Issues Log" tab), and pivot-table KPI calculations ("Data Summary" and "Test Cal." tabs). |
-| `Digital_Echoes_BI.pbix` | The Power BI data model and interactive report — clustered bar, donut, and combo-chart visuals plus pivot-table views, one per KPI. |
-| `Digital_Echoes_Annual_Sales_Performance_Report.pptx` | The final presentation deliverable: a 15-slide report summarizing every KPI with narrative insight, styled for a non-technical audience. |
+| `DE_SalesRecord.xlsx` | Raw sales records, the pre-existing data cleaning log ("Issues Log" tab), and pivot-table KPI calculations ("Data Summary" and "Test Cal." tabs). |
+| `DE_BI.pbix` | The Power BI data model and interactive report — clustered bar, donut, and combo-chart visuals plus pivot-table views, one per KPI. |
+| `DE_Annual_Sales_Performance_Report.pptx` | The final presentation deliverable: a 15-slide report summarizing every KPI with narrative insight, styled for a non-technical audience. |
 
 **Headline numbers:** $137.3M total revenue · $44.2M total profit · 32.2% blended margin · 2010–2017.
 
@@ -130,10 +130,10 @@ digital-echoes-sales-performance-report/
 
 ## Reproducing This Project
 
-- **To explore the interactive visuals:** open `Digital_Echoes_BI.pbix` in
+- **To explore the interactive visuals:** open `DE_BI.pbix` in
   [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (free).
 - **To see the KPI calculations and cleaning log:** open
-  `Digital_Echoes_SalesRecord.xlsx` and check the "Data Summary," "Test Cal.,"
+  `DE_SalesRecord.xlsx` and check the "Data Summary," "Test Cal.,"
   and "Issues Log" tabs.
 - **To regenerate the PowerPoint report from source:** the build script isn't
   included in this repo yet — available on request if you'd like to rerun or
